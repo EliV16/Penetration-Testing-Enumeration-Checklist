@@ -5,5 +5,5 @@ Designed for junior penetration testers to follow a structured and repeatable ap
 during security assessments.
 
 ## Contents
-- Network Enumeration
-- Web Application Enumeration
+- [Network Enumeration](https://github.com/EliV16/Penetration-Testing-Enumeration-Checklist/blob/main/network-enumeration.md)
+- [Web Application Enumeration](https://github.com/EliV16/Penetration-Testing-Enumeration-Checklist/blob/main/web-enumeration.md)
